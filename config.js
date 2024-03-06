@@ -11,7 +11,7 @@ module.exports = {
         password: process.env.DB_PASSWORD || '',
         name: process.env.DB_NAME || 'test',
         port: process.env.DB_PORT || 3306,
-        type: process.env.DB_TYPE || 'mysql',
+        type: process.env.DB_DIALECT || 'mysql',
     },
 
     development: {

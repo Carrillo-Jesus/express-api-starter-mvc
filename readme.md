@@ -6,7 +6,7 @@ API con Express destinada a servir como base para iniciar proyectos mern.
 
 Asegúrate de tener instalado lo siguiente antes de comenzar:
 
-- Node.js
+- Node.js 20.10.0
 - npm (Administrador de paquetes de Node.js)
 - Base de datos (Mysql, MongoDB, etc.)
 - Después de instalarla crea una base de datos

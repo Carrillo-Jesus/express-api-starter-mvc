@@ -57,4 +57,4 @@ Asegúrate de tener instalado lo siguiente antes de comenzar:
     ```bash
     npm run dev
     ```
-### Tu aplicación debe estar corriendo en [ http://localhost:4000]( http://localhost:4000)
+### Tu aplicación debe estar corriendo en el puerto 4000, entra al siguiente enlace: [ http://localhost:4000/api/blogs]( http://localhost:4000/api/blogs)

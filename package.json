@@ -1,0 +1,27 @@
+{
+  "name": "express-api-starter-mvc",
+  "version": "1.0.0",
+  "description": "Inicia tus proyectos de API con Express y Sequelize de forma rápida y sencilla.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Jesus Carrillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "module-alias": "^2.2.3",
+    "mysql2": "^3.9.2",
+    "nodemon": "^3.1.0",
+    "sequelize": "^6.37.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "sequelize-cli": "^6.6.2"
+  },
+  "_moduleAliases": {
+    "@": "./"
+  }
+}

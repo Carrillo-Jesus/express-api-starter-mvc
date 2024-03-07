@@ -1,6 +1,6 @@
 # Express API Starter (MVC)
 
-API con Express destinada a servir como base para iniciar proyectos mern.
+API with Express intended to serve as a basis for starting mern projects.
 
 ## Requisitos previos
 
